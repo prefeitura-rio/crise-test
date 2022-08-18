@@ -6,6 +6,7 @@ nav:
   - FAQ: ./faq/faq.md
 
 theme:
+  custom_dir: docs/overrides
   name: material
   icon:
     repo: fontawesome/brands/github
@@ -35,6 +36,7 @@ repo_name: prefeitura-rio/crise-test
 
 plugins:
   - mkdocs-video
+  - search
 
 extra:
   version: 2.0
