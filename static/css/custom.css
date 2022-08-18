@@ -37,3 +37,7 @@
     --md-footer-fg-color--light:    #DADADA; /* Footer text and icons color */
     --md-footer-fg-color--lighter:  #7A7A7A; /* Footer text color */
 }
+
+.md-banner {
+    background-color: #FF8811;
+}
