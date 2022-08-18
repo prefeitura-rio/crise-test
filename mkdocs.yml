@@ -5,6 +5,7 @@ nav:
     - Início: index.md
 
 theme:
+  custom_dir: docs/overrides
   name: material
   icon:
     repo: fontawesome/brands/github
