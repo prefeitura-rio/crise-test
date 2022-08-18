@@ -41,9 +41,15 @@ extra:
   version: 2.0
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/dados_rio
+      link: https://twitter.com/Prefeitura_Rio
+    - icon: fontawesome/brands/facebook-f
+      link: https://www.facebook.com/PrefeituradoRio/ 
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/prefeituradorio/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/Xx8Y6mYaq2
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/prefeiturario
     - icon: fontawesome/brands/github
       link: https://github.com/prefeitura-rio
 
