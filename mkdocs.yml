@@ -34,6 +34,7 @@ repo_name: prefeitura-rio/crise-test
 
 plugins:
   - mkdocs-video
+  - search
 
 extra:
   version: 2.0
