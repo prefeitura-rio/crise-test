@@ -1,0 +1,61 @@
+site_name: Status Crise
+
+nav:
+  - Home:
+    - Início: index.md
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-outline
+        name: Mudar para tema escuro
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off
+        name: Mudar para tema claro
+  language: pt
+  font:
+    text: Lato
+  favicon: static/img/logo.png
+  logo: static/img/logo_header.png
+  features:
+    - header.autohide
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.tabs.link
+
+repo_url: https://github.com/prefeitura-rio/crise-test
+repo_name: prefeitura-rio/crise-test
+
+plugins:
+  - mkdocs-video
+
+extra:
+  version: 2.0
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/dados_rio
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/Xx8Y6mYaq2
+    - icon: fontawesome/brands/github
+      link: https://github.com/prefeitura-rio
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - mkdocs_click
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
+
+extra_css:
+- static/css/custom.css
