@@ -1,13 +1,18 @@
-# Bem-vinde à documentação do Escritório de Dados Rio!
+# Comunicado
 
-Aqui, você encontrará um repositório colaborativo de informações para ajudar você a fazer o melhor
-uso de todos os recursos que podemos oferecer. Sinta-se à vontade para navegar.
+Os sistemas da Prefeitura do Rio sofreram um ataque hacker na madrugada de segunda-feira, 15/08. Todos os
+serviços do Portal da Prefeitura **foram retirados do ar preventivamente para garantir a proteção dos dados**.
 
-Na aba de navegação, você verá algumas opções:
+**Estamos trabalhando para amenizar os transtornos causados aos cariocas e para que os nossos sistemas
+voltem à normalidade o mais rápido possível**. O crime foi registrado na Delegacia de Repressão aos Crimes de
+Informática para que o responsável seja identificado e punido.
 
-- [**Home**](#): você está aqui! 🎉
-- [**Tutoriais**](/tutoriais/como-acessar-dados/): guias para garantir que todos possam usar de nossos recursos 💯
-- [**Guia de desenvolvedores**](/guia-desenvolvedores/visao-geral-infra/): documentação mais técnica voltada para desenvolvedores engajados 🤓
-- [**Contato**](/contato/): vários meios para entrar em contato com a equipe do Escritório de Dados Rio! 🤗
+# Importante
 
-Abaixo, você encontra nossas mídias sociais. Venha interagir com nossa comunidade!
+Os dias em que o sistema está fora do ar não serão considerados dias úteis para fins de vencimento de
+tributos e **nenhum contribuinte será prejudicado**.
+
+# Links úteis
+
+- [Status dos sistemas](sistemas/sistemas/)
+- [Perguntas frequentes](faq/faq/)
