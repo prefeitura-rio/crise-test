@@ -1,8 +1,9 @@
 site_name: Status Crise
 
 nav:
-  - Home:
-    - Início: index.md
+  - Início: index.md
+  - Status dos Sistemas: ./sistemas/sistemas.md
+  - FAQ: ./faq/faq.md
 
 theme:
   custom_dir: docs/overrides
