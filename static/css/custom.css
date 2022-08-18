@@ -41,3 +41,15 @@
 .md-banner {
     background-color: #FF8811;
 }
+
+.x {
+    color: red;
+}
+
+.check {
+color: green;
+}
+
+.reload {
+color: orange;
+}
