@@ -1,8 +1,9 @@
 site_name: Status Crise
 
 nav:
-  - Home:
-    - Início: index.md
+  - Início: index.md
+  - Status dos Sistemas: ./sistemas/sistemas.md
+  - FAQ: ./faq/faq.md
 
 theme:
   name: material
@@ -53,8 +54,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.tabbed:
-      alternate_style: true
+  # - pymdownx.tabbed:
+  #     alternate_style: true
   - pymdownx.superfences
 
 extra_css:
